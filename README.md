@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rustyoscar!
-- 🐧 I’m interested in Rust, Linux, & open-source.
+- 🐧 Ex-InfraOps manager interested in Rust, Linux, Cloud, & open-source.
 - 🦀 I’m currently learning Rust so I can Rust All The Things! 
 - ☕  When in doubt, choose coffee.
 
